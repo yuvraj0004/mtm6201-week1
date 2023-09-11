@@ -1,0 +1,53 @@
+       .wrapper{
+        width: 80%;
+        margin: auto;
+       }
+
+       body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: white;
+            color: whitesmoke;
+            text-align: center;
+            padding: 23px;
+        }
+
+        header h1 {
+            font-size: 30px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: blueviolet;
+            box-shadow: 0 0 10px black;
+        }
+        .profile-image {
+            width:500px;
+            margin: auto;
+            padding-left:180px;
+            
+            
+        }
+
+        dl {
+            font-size: 20px;
+        }
+
+        dt {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        dd {
+            margin-bottom: 10px;
+        }
+
+
+  
